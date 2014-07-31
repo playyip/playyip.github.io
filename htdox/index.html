@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+  
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+
+  <title>Crime Spi</title>
+  <script src="Chart.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+  <script src="crimespi.js"></script>
+
+  <link rel="stylesheet" type="text/css" href="crimespi.css" />
+</head> 
+
+<body onload="makePage()">
+    <div id="theDate"> The date =</div>
+    <div id="thePostcode"> The postcode =</div>
+    <div id="map">Map</div>
+    <div id="legend">Crimes</div>
+    <canvas id="myChart" width="400" height="400"></canvas>
+    
+    <form name="input" method="get">
+          Date: <input type="text" name="date">
+        Postcode: <input type="text" name="postcode"> 
+        <input type="submit" value="Submit">
+          
+
+    </form>
+    
+
+</body>
+    
+</html>

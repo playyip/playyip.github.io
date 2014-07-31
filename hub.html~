@@ -1,4 +1,3 @@
-<!-- Hub -->
 <!DOCTYPE html>
 <html>
 <head><title>Home</title><link href="top.css" type="text/css" rel="stylesheet" media="all">
@@ -33,4 +32,4 @@ background-color:#555;
 Our steps to bringing you accurate crime details:<ol><li>We retreive the Year & Month you want to display crimes in, as well as your <br>&nbsp;&nbsp;postcode.<li>We convert the postcode, using an API, to Latitude and Longitude co-ordinates.<li>We update a bar chart, stating crimes of what type are in your area<li>We update the map by changing the center to your postcode's co-ordinates, and <br>&nbsp;&nbsp;adding the crimes around your area.<br>&nbsp;&nbsp;We do not just pust <i>every</i> crime on the map and just change the co-ordinates,<br>&nbsp;&nbsp;but we add the crimes around your area, therefore saving you loading time & file size.</ol><br>
 <footer><small>Logo courtesy of <a href="http://www.zilliondesigns.com">zilliondesigns.com</a>.<br><br>Logo created by founder <a href="staff.html#oliver">Oliver Allen</a>.<br><br>All pages Copyright &copy; 2014</small></footer>
 </body>
-</html>
+</html> hefuifhweefeowfiowfwefeiofewjfieiofwefji iefiowej fweif ehfiwe fuiefh wefui heuife hfuie hfeuifehfuif hefuifhwe

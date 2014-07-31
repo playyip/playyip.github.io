@@ -1,0 +1,23 @@
+nav { border-top:1px solid limegreen;
+border-bottom:1px solid limegreen;
+padding:10px 0px 10px 0px;
+margin:10px 0px 20px 0px;
+}
+body{padding:7px;}
+nav a { color:beige; 
+text-decoration:none;
+margin-right:20px;
+font-size:1.2em;
+}
+nav a:visited { color:beige; }
+body{background-color:#0033cc;color:#ffff66;font-family:"Comic Sans";}
+footer{
+padding:0.7em;
+width:98%;
+text-align:bottom;
+height:150px;
+background-color:#555;
+}
+small{font-size:0.95em; color:#eee;}
+small a{font-size:0.95em; color:#eee;}
+
